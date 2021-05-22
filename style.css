@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+section{
+    text-align: center;
+    background-color:lightgrey;
+    border: 15px solid burlywood;
+    padding:50px ;
+    margin: 10px;}
+img{width:150px ;
+    height:150px;
+
+}
